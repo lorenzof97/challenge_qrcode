@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-color: hsl(220, 15%, 55%);
+}
+
+.qrCode {
+  height: 300px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.main {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.body {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.App-header {
+  background-color: hsl(220, 15%, 55%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.qrContainer {
+  background-color: white;
+  border-radius: 15px;
+  width: 340px;
+  height: 500px;
+}
+
+
